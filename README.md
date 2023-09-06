@@ -1,0 +1,2 @@
+# super-queens
+Hackerrank challenge
